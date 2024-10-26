@@ -51,9 +51,8 @@ This project is a simple IR-based sensor system that uses a reflective IR sensor
 ## Getting Started
 1. **Download** the repository files.
 2. Open the project files in KiCad for viewing or modification.
-3. If needed, **generate Gerber files** from the PCB layout to send for manufacturing.
-4. **Assemble the components** as per the schematic, ensuring the IR LED and photodiode are correctly positioned with heat shrink to isolate their light.
-5. **Test the circuit** by placing objects or people near the sensor and observing the 5-second buzzer response.
+3. **Assemble the components** as per the schematic, ensuring the IR LED and photodiode are correctly positioned with heat shrink to isolate their light.
+4. **Test the circuit** by placing objects or people near the sensor and observing the 5-second buzzer response.
 
 ## License
 This project is open-source and available under the MIT License. Please refer to the `LICENSE` file for more details.
